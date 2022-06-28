@@ -13,7 +13,7 @@ google-api-python-client
 google-auth-httplib2
 google-auth-oauthlib
 gunicorn
-heroku
+heroku3
 lk21
 lxml
 pillow
